@@ -29,8 +29,8 @@ const (
 	// Delimiters
 	COMMA     = ","
 	SEMICOLON = ";"
-	COLLON = ":"
-	PIPE = "|"
+	COLON     = ":"
+	PIPE      = "|"
 
 	LPAREN = "("
 	RPAREN = ")"
